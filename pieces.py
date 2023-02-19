@@ -1,6 +1,6 @@
 import pygame
 
-from typing import Tuple
+from typing import Tuple, Self
 
 from sprite_sheet import SpriteSheet
 
